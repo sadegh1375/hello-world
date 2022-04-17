@@ -1,2 +1,2 @@
 # hello-world
-i dont know
+my firs repository.
